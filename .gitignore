@@ -16,3 +16,7 @@ profile
 *.moved-aside
 DerivedData
 .idea/
+/PackagedApplet/dist/
+/PackagedApplet/nbproject/private
+/PackagedApplication/nbproject/private/
+/PackagedApplication/dist/
